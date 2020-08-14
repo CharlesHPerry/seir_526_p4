@@ -17,8 +17,12 @@ Me, myself, and I.
 - Unity's XR Interaction Toolkit specifically the Oculus Integration toolkit
     For hardware I will be using my Oculus Quest in developer mode, which will allow me to run my program as intended.
 
-## Plan of attack
-   I intned to spend the first day or so just researching how to use C# and getting my project set up in Unity, then jump into the process of adding different objects for the player to put into the game environment. In terms of how I plan to actually learn the technologies, I plan to scour the documentation and watch tons of Youtube tutorials until I feel comfortable to create my own unique aspects of the game. 
+## Plan of attack (Daily Tasks)
+- I intned to spend the first day or so just researching how to use C# and getting my project set up in Unity, then jump into the process of adding different objects for the player to put into the game environment. In terms of how I plan to actually learn the technologies, I plan to scour the documentation and watch tons of Youtube tutorials until I feel comfortable to create my own unique aspects of the game.
+- Day 2 will be spent making sure that the game boilerplate works properly and that I can get it onto my quest, followed by trying to code in some objects
+- Day 3 will be spent trying to make the menu to select objects. The hover effect of the currently selected object will be an after-thought because that might give me issues.
+- Day 4 will be spent making sure that all objects can be placed where ever you want in the play area. If thats working I will transition to trying to add physics objects.
+- Day 5 will be spent trying to make sure that the phsyics objects work then go into trying to allow the player to alter the color of objects.
 
 ## Potential Roadblocks
    Seeing as I am not at all familiar with Unity there very well could be a few issues wit h implementing some of the features that I want to such as the physics objects and or the spray paint can, I will see as I start working more what is and is not possible in the time that I have.
